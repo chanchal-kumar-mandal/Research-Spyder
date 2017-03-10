@@ -1,0 +1,4 @@
+[06-Dec-2016 05:44:30 UTC] PHP Notice:  Undefined index: fname in /home/gkresear/public_html/internal/includes/query.php on line 13
+[06-Dec-2016 05:44:30 UTC] PHP Notice:  Undefined index: lname in /home/gkresear/public_html/internal/includes/query.php on line 15
+[06-Dec-2016 06:01:07 UTC] PHP Notice:  Undefined index: fname in /home/gkresear/public_html/internal/includes/query.php on line 13
+[06-Dec-2016 06:01:07 UTC] PHP Notice:  Undefined index: lname in /home/gkresear/public_html/internal/includes/query.php on line 15
